@@ -16,5 +16,5 @@ The code can be found in the folder `code` and we prepared two example data in t
 
 Please check the `main.py` file for an examplar runable code.
 
-For the requirements, please see the `requirement.txt` for the prerequisite packages or simply use 
+For the required packages, please see the `requirement.txt` for the prerequisite packages or simply use 
 >pip install requirements.txt
